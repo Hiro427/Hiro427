@@ -3,3 +3,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hiro427&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiro427&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/
